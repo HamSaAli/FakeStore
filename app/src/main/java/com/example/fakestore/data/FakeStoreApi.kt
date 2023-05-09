@@ -1,4 +1,4 @@
-package com.example.fakestore
+package com.example.fakestore.data
 
 import com.example.fakestore.model.Carts
 import com.example.fakestore.model.Product
